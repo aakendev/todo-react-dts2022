@@ -2,7 +2,7 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  background-color:lightskyblue;
+  background-color: lightskyblue;
   min-height: 100vh;
 }
 
@@ -26,6 +26,7 @@
 
 .todo-list {
   width: fit-content;
+  text-align: left;
 }
 
 .todo-form span {
